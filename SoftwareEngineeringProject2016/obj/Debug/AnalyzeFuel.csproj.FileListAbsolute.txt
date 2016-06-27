@@ -1,0 +1,72 @@
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\Resources\Excel\Harvey Champion Transit Data.xls
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\Resources\Excel\Harvey Supporter Transit Data.xls
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\Resources\Excel\Sisuaq Data.xls
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\AnalyzeFuel.exe.config
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\AnalyzeFuel.exe.manifest
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\AnalyzeFuel.application
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\AnalyzeFuel.exe
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\AnalyzeFuel.pdb
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\IKVM.Runtime.dll
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\obj\Debug\AnalyzeFuel.csprojResolveAssemblyReference.cache
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\obj\Debug\SoftwareEngineeringProject2016.Forms.PatternSelector.resources
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\obj\Debug\SoftwareEngineeringProject2016.Forms.InfoRequestForm.resources
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\obj\Debug\SoftwareEngineeringProject2016.LoginWindow.resources
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\obj\Debug\SoftwareEngineeringProject2016.Forms.MainWindow.resources
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\obj\Debug\SoftwareEngineeringProject2016.Properties.Resources.resources
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\obj\Debug\AnalyzeFuel.csproj.GenerateResource.Cache
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\obj\Debug\AnalyzeFuel.exe.manifest
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\obj\Debug\AnalyzeFuel.application
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\obj\Debug\AnalyzeFuel.exe
+D:\Dropbox\College Work\Software Engineering\Project\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\SoftwareEngineeringProject2016\obj\Debug\AnalyzeFuel.pdb
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\AnalyzeFuel.exe.config
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\obj\Debug\AnalyzeFuel.exe
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\obj\Debug\AnalyzeFuel.pdb
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\Resources\Excel\Harvey Champion Transit Data.xls
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\Resources\Excel\Harvey Supporter Transit Data.xls
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\Resources\Excel\Sisuaq Data.xls
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\AnalyzeFuel.exe.manifest
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\AnalyzeFuel.application
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\AnalyzeFuel.exe
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\AnalyzeFuel.pdb
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\IKVM.Runtime.dll
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\obj\Debug\AnalyzeFuel.csprojResolveAssemblyReference.cache
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\obj\Debug\SoftwareEngineeringProject2016.Forms.PatternSelector.resources
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\obj\Debug\SoftwareEngineeringProject2016.Forms.InfoRequestForm.resources
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\obj\Debug\SoftwareEngineeringProject2016.LoginWindow.resources
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\obj\Debug\SoftwareEngineeringProject2016.Forms.MainWindow.resources
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\obj\Debug\SoftwareEngineeringProject2016.Properties.Resources.resources
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\obj\Debug\AnalyzeFuel.csproj.GenerateResource.Cache
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\obj\Debug\AnalyzeFuel.exe.manifest
+D:\Dropbox\College Work\Software Engineering\Project\AnalyzeFuel\AnalyzeFuel\SoftwareEngineeringProject2016\obj\Debug\AnalyzeFuel.application
